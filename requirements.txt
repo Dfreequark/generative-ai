@@ -5,3 +5,5 @@ langchain-cohere
 
 streamlit
 python-dotenv
+pypdf
+faiss-cpu
